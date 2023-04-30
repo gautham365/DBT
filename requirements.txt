@@ -1,0 +1,4 @@
+newsapi-python
+pymongo
+pyspark
+kafka-python
